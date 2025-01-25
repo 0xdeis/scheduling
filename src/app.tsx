@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Hello world!</h1>
+      <h1>CI/CD?</h1>
       <button class="increment" onClick={() => setCount(count() + 1)} type="button">
         Clicks: {count()}
       </button>
